@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "guessApp",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5503
+	}
+}
